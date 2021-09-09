@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <Button
-            android:id="@+id/ahuenno9"
+            android:id="@+id/knopka19"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_alignParentLeft="true"
@@ -36,10 +36,10 @@
             app:iconTint="#00FFFFFF"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/ahuenno8" />
+            app:layout_constraintTop_toBottomOf="@+id/knopka16" />
 
         <Button
-            android:id="@+id/sherst9"
+            android:id="@+id/knopka21"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_marginEnd="4dp"
@@ -50,12 +50,12 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha9"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka20"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha9" />
+            app:layout_constraintTop_toTopOf="@+id/knopka20" />
 
         <Button
-            android:id="@+id/sherst8"
+            android:id="@+id/knopka18"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_marginEnd="4dp"
@@ -66,12 +66,12 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha8"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka17"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha8" />
+            app:layout_constraintTop_toTopOf="@+id/knopka17" />
 
         <Button
-            android:id="@+id/ahuenno8"
+            android:id="@+id/knopka16"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_alignParentLeft="true"
@@ -85,12 +85,12 @@
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
             app:iconTint="#00FFFFFF"
-            app:layout_constraintBottom_toTopOf="@+id/ahuenno9"
+            app:layout_constraintBottom_toTopOf="@+id/knopka19"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/ahuenno7" />
+            app:layout_constraintTop_toBottomOf="@+id/knopka13" />
 
         <Button
-            android:id="@+id/ahuenno7"
+            android:id="@+id/knopka13"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_alignParentLeft="true"
@@ -104,12 +104,12 @@
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
             app:iconTint="#00FFFFFF"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha7"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka14"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha7" />
+            app:layout_constraintTop_toTopOf="@+id/knopka14" />
 
         <Button
-            android:id="@+id/sherst7"
+            android:id="@+id/knopka15"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_marginEnd="4dp"
@@ -120,12 +120,12 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha7"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka14"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha7" />
+            app:layout_constraintTop_toTopOf="@+id/knopka14" />
 
         <Button
-            android:id="@+id/sherst4"
+            android:id="@+id/knopka9"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_marginEnd="4dp"
@@ -136,12 +136,12 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha4"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka8"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha4" />
+            app:layout_constraintTop_toTopOf="@+id/knopka8" />
 
         <Button
-            android:id="@+id/sherst6"
+            android:id="@+id/knopka12"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_marginEnd="4dp"
@@ -152,12 +152,12 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha6"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka11"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha6" />
+            app:layout_constraintTop_toTopOf="@+id/knopka11" />
 
         <Button
-            android:id="@+id/ahuenno6"
+            android:id="@+id/knopka10"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_alignParentLeft="true"
@@ -171,12 +171,12 @@
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
             app:iconTint="#00FFFFFF"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha6"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka11"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha6" />
+            app:layout_constraintTop_toTopOf="@+id/knopka11" />
 
         <Button
-            android:id="@+id/ahuenno4"
+            android:id="@+id/knopka7"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_alignParentLeft="true"
@@ -190,12 +190,12 @@
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
             app:iconTint="#00FFFFFF"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha4"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka8"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha4" />
+            app:layout_constraintTop_toTopOf="@+id/knopka8" />
 
         <Button
-            android:id="@+id/sherst2"
+            android:id="@+id/knopka6"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_marginEnd="4dp"
@@ -206,12 +206,12 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha2"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka5"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha2" />
+            app:layout_constraintTop_toTopOf="@+id/knopka5" />
 
         <Button
-            android:id="@+id/ahuenno2"
+            android:id="@+id/knopka4"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_alignParentLeft="true"
@@ -225,12 +225,12 @@
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
             app:iconTint="#00FFFFFF"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha2"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka5"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/ahha2" />
+            app:layout_constraintTop_toTopOf="@+id/knopka5" />
 
         <Button
-            android:id="@+id/ahha2"
+            android:id="@+id/knopka5"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:background="@drawable/buttonround"
@@ -240,16 +240,16 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toTopOf="@+id/ahha4"
-            app:layout_constraintEnd_toEndOf="@+id/ahha"
-            app:layout_constraintEnd_toStartOf="@+id/sherst"
+            app:layout_constraintBottom_toTopOf="@+id/knopka8"
+            app:layout_constraintEnd_toEndOf="@+id/knopka2"
+            app:layout_constraintEnd_toStartOf="@+id/knopka3"
             app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toEndOf="@+id/ahuenno"
-            app:layout_constraintStart_toStartOf="@+id/ahha"
-            app:layout_constraintTop_toBottomOf="@+id/ahha" />
+            app:layout_constraintStart_toEndOf="@+id/knopka1"
+            app:layout_constraintStart_toStartOf="@+id/knopka2"
+            app:layout_constraintTop_toBottomOf="@+id/knopka2" />
 
         <Button
-            android:id="@+id/ahha"
+            android:id="@+id/knopka2"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:background="@drawable/buttonround"
@@ -259,14 +259,14 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toTopOf="@+id/ahha2"
-            app:layout_constraintEnd_toStartOf="@+id/sherst"
+            app:layout_constraintBottom_toTopOf="@+id/knopka5"
+            app:layout_constraintEnd_toStartOf="@+id/knopka3"
             app:layout_constraintHorizontal_bias="0.454"
-            app:layout_constraintStart_toEndOf="@+id/ahuenno"
+            app:layout_constraintStart_toEndOf="@+id/knopka1"
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button
-            android:id="@+id/ahha4"
+            android:id="@+id/knopka8"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:background="@drawable/buttonround"
@@ -276,16 +276,16 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toTopOf="@+id/ahha6"
-            app:layout_constraintEnd_toEndOf="@+id/ahha2"
-            app:layout_constraintEnd_toStartOf="@+id/sherst"
+            app:layout_constraintBottom_toTopOf="@+id/knopka11"
+            app:layout_constraintEnd_toEndOf="@+id/knopka5"
+            app:layout_constraintEnd_toStartOf="@+id/knopka3"
             app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toEndOf="@+id/ahuenno"
-            app:layout_constraintStart_toStartOf="@+id/ahha2"
-            app:layout_constraintTop_toBottomOf="@+id/ahha2" />
+            app:layout_constraintStart_toEndOf="@+id/knopka1"
+            app:layout_constraintStart_toStartOf="@+id/knopka5"
+            app:layout_constraintTop_toBottomOf="@+id/knopka5" />
 
         <Button
-            android:id="@+id/ahha6"
+            android:id="@+id/knopka11"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:background="@drawable/buttonround"
@@ -295,16 +295,16 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toTopOf="@+id/ahha7"
-            app:layout_constraintEnd_toEndOf="@+id/ahha4"
-            app:layout_constraintEnd_toStartOf="@+id/sherst"
+            app:layout_constraintBottom_toTopOf="@+id/knopka14"
+            app:layout_constraintEnd_toEndOf="@+id/knopka8"
+            app:layout_constraintEnd_toStartOf="@+id/knopka3"
             app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toEndOf="@+id/ahuenno"
-            app:layout_constraintStart_toStartOf="@+id/ahha4"
-            app:layout_constraintTop_toBottomOf="@+id/ahha4" />
+            app:layout_constraintStart_toEndOf="@+id/knopka1"
+            app:layout_constraintStart_toStartOf="@+id/knopka8"
+            app:layout_constraintTop_toBottomOf="@+id/knopka8" />
 
         <Button
-            android:id="@+id/ahha7"
+            android:id="@+id/knopka14"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:background="@drawable/buttonround"
@@ -314,16 +314,16 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toTopOf="@+id/ahha8"
-            app:layout_constraintEnd_toEndOf="@+id/ahha6"
-            app:layout_constraintEnd_toStartOf="@+id/sherst"
+            app:layout_constraintBottom_toTopOf="@+id/knopka17"
+            app:layout_constraintEnd_toEndOf="@+id/knopka11"
+            app:layout_constraintEnd_toStartOf="@+id/knopka3"
             app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toEndOf="@+id/ahuenno"
-            app:layout_constraintStart_toStartOf="@+id/ahha6"
-            app:layout_constraintTop_toBottomOf="@+id/ahha6" />
+            app:layout_constraintStart_toEndOf="@+id/knopka1"
+            app:layout_constraintStart_toStartOf="@+id/knopka11"
+            app:layout_constraintTop_toBottomOf="@+id/knopka11" />
 
         <Button
-            android:id="@+id/ahha9"
+            android:id="@+id/knopka20"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:background="@drawable/buttonround"
@@ -334,15 +334,15 @@
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="@+id/ahha8"
-            app:layout_constraintEnd_toStartOf="@+id/sherst"
+            app:layout_constraintEnd_toEndOf="@+id/knopka17"
+            app:layout_constraintEnd_toStartOf="@+id/knopka3"
             app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toEndOf="@+id/ahuenno"
-            app:layout_constraintStart_toStartOf="@+id/ahha8"
-            app:layout_constraintTop_toBottomOf="@+id/ahha8" />
+            app:layout_constraintStart_toEndOf="@+id/knopka1"
+            app:layout_constraintStart_toStartOf="@+id/knopka17"
+            app:layout_constraintTop_toBottomOf="@+id/knopka17" />
 
         <Button
-            android:id="@+id/ahha8"
+            android:id="@+id/knopka17"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:background="@drawable/buttonround"
@@ -352,16 +352,16 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toTopOf="@+id/ahha9"
-            app:layout_constraintEnd_toEndOf="@+id/ahha7"
-            app:layout_constraintEnd_toStartOf="@+id/sherst"
+            app:layout_constraintBottom_toTopOf="@+id/knopka20"
+            app:layout_constraintEnd_toEndOf="@+id/knopka14"
+            app:layout_constraintEnd_toStartOf="@+id/knopka3"
             app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toEndOf="@+id/ahuenno"
-            app:layout_constraintStart_toStartOf="@+id/ahha7"
-            app:layout_constraintTop_toBottomOf="@+id/ahha7" />
+            app:layout_constraintStart_toEndOf="@+id/knopka1"
+            app:layout_constraintStart_toStartOf="@+id/knopka14"
+            app:layout_constraintTop_toBottomOf="@+id/knopka14" />
 
         <Button
-            android:id="@+id/ahuenno"
+            android:id="@+id/knopka1"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_alignParentLeft="true"
@@ -375,13 +375,13 @@
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
             app:iconTint="#00FFFFFF"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka2"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0" />
 
         <Button
-            android:id="@+id/sherst"
+            android:id="@+id/knopka3"
             android:layout_width="130dp"
             android:layout_height="95dp"
             android:layout_marginEnd="4dp"
@@ -392,7 +392,7 @@
             android:textStyle="bold|italic"
             app:backgroundTint="#FFFFFF"
             app:backgroundTintMode="multiply"
-            app:layout_constraintBottom_toBottomOf="@+id/ahha"
+            app:layout_constraintBottom_toBottomOf="@+id/knopka2"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0" />
