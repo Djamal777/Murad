@@ -1,4 +1,4 @@
-package com.example.murat;
+package muratmuratmuratmuratmurat;
 
 import org.junit.Test;
 

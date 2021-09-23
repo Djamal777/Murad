@@ -1,16 +1,13 @@
-package com.example.murat;
+package muratmuratmuratmuratmurat;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.media.AudioManager;
 import android.media.MediaPlayer;
-import android.media.SoundPool;
 import android.os.Bundle;
-import android.os.CountDownTimer;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageButton;
+
+import com.muratmuratmuratmuratmurat.R;
 
 public class MainActivity extends AppCompatActivity {
 

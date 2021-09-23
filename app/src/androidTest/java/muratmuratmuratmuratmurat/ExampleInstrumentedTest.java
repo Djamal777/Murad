@@ -1,4 +1,4 @@
-package com.example.murat;
+package muratmuratmuratmuratmurat;
 
 import android.content.Context;
 

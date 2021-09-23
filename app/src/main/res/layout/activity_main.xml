@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#faeedd"
-    tools:context=".MainActivity">
+    tools:context="muratmuratmuratmuratmurat.MainActivity">
 
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -44,7 +44,7 @@
             android:layout_height="88dp"
             android:layout_marginEnd="4dp"
             android:background="@drawable/buttonround"
-            android:text="яхааа баляя"
+            android:text="яхааа"
             android:textColor="#000000"
             android:textSize="16sp"
             android:textStyle="bold|italic"
@@ -60,7 +60,7 @@
             android:layout_height="88dp"
             android:layout_marginEnd="4dp"
             android:background="@drawable/buttonround"
-            android:text="ШЕРСТЬ ЁБАНАЯ"
+            android:text="ШЕРСТЬ"
             android:textColor="#000000"
             android:textSize="16sp"
             android:textStyle="bold|italic"
@@ -78,7 +78,7 @@
             android:layout_marginStart="4dp"
             android:background="@drawable/buttonround"
             android:padding="15dp"
-            android:text="пошел нахуй"
+            android:text="пошел на*уй"
             android:textColor="#000000"
             android:textSize="16sp"
             android:textStyle="bold|italic"
@@ -97,7 +97,7 @@
             android:layout_marginStart="4dp"
             android:background="@drawable/buttonround"
             android:padding="15dp"
-            android:text="ебанем"
+            android:text="по адресу"
             android:textColor="#000000"
             android:textSize="16sp"
             android:textStyle="bold|italic"
@@ -253,7 +253,7 @@
             android:layout_width="115dp"
             android:layout_height="88dp"
             android:background="@drawable/buttonround"
-            android:text="ахуенно"
+            android:text="а*уенно"
             android:textColor="#000000"
             android:textSize="16sp"
             android:textStyle="bold|italic"
